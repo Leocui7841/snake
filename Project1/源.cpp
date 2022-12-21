@@ -1,5 +1,6 @@
 ﻿/* 贪吃蛇游戏 */
 #include <iostream>
+#include <time.h>
 using namespace std;
 int dollarX, dollarY;
 int main()
